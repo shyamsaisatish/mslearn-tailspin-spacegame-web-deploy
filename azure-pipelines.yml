@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'MyAgentPool'
+  name: 'MyAgent'
   demands:
   - npm
 
